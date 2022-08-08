@@ -1,10 +1,7 @@
 
 body {
     background-color: rgb(192, 201, 202);
-    margin-top: 8px;
-    margin-right: 8px;
-    margin-left: 8px;
-    margin-bottom: 8px;
+    margin: 8px;    
     display: block;    
 }
 .mainHeading {
