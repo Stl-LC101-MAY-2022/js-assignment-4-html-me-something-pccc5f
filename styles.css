@@ -4,11 +4,7 @@ body {
     margin: 8px;    
     display: block;    
 }
-.mainHeading {
-    color: red;
-    background-color: rgb(8, 13, 26);
-    text-align:center;    
-}
+
 .funParagraph {
     color:green;
 }
@@ -23,4 +19,9 @@ h2 {
 }
 #testP {
     font-size: larger;
+}
+.mainHeading {
+    color: red;
+    background-color: rgb(8, 13, 26);
+    text-align:center;    
 }
